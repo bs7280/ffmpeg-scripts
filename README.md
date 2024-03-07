@@ -3,3 +3,9 @@ WIP collection of tools for processing videos. Current can walk a directory of v
 
 ## Setup
 Need ffmpeg and imagemagik in path
+
+## Usage
+
+`python main.py gif D:/path/to/videos/ -o gifs/`
+
+`python main.py gif D:/test_video.mp4 -o gifs/out.mp4`
